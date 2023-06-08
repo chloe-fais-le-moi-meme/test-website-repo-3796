@@ -19,7 +19,7 @@ Avec les moyens du bord. 
 Bricoler du vivant, en somme.
 
 
->Faites des bêtises mais faites les avec enthousiasme
+>*Faites des bêtises mais faites les avec enthousiasme*
 
 C'est un peu autour de cet adage que nous bidouillons des trucs ensemble depuis 2016.
 
