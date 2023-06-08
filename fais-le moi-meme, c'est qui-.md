@@ -21,11 +21,13 @@ Bricoler du vivant, en somme.
 
 >*Faites des bêtises mais faites les avec enthousiasme*
 
-C'est un peu autour de cet adage que nous bidouillons des trucs ensemble depuis 2016.
+C'est un peu autour de cet adage attribué à Colette que nous bidouillons des trucs ensemble depuis 2016.
 
 Nous, c'est : 
 
 ### Chloé Thorey
 
-Je suis comédienne, musicienne, et je fais de la vidéo.
 ![dessin Chloé](images/Capture d’écran 2023-06-08 à 21.22.36.png)
+Artiste touche-à-tout autodidacte, je me forme au conservatoire de Lille en chant et au conservatoire de Roubaix en théâtre. Mais j'apprends tout autant au contact des artistes pour qui je travaille à Lille (Cie Thec, Collectif Poupées de Chimère, Cie Lazlo...) puis en Anjou avec la Cie Map, Cie Omi Sissi, Collectif Citrons, Cie Oeil du Do, Cie du Cri…  
+Je dirige plusieurs chorales (La Chorale à La Con, Les Louise Sans michel ) et développe mon activité musicale en fondant et co-dirigeant le groupe de jazz vocal Little Boxon’g. 
+En 2019 je commence à mener mes propres projets théâtraux après s’être mise au service d’autres compagnies et metteur-euse-s en scène pendant plus de 15 ans. Fin 2022, je reviens dans les Hauts de France pour y rassembler mes différents champs d’activités autour de la Cie Fais-Le Moi-Même et de son bureau de production Vintage Caravane.
