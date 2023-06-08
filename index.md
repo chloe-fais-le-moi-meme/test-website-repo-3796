@@ -1,7 +1,7 @@
 ---
 title: Les Enfants de La Destinée
 ---
-#Les Enfants de la Destinée 
+**Les Enfants de la Destinée**
 
 c’est un spectacle qui s’adresse à ceux qui ne sont plus des enfants, pour leur proposer de regarder derrière eux. Demandons nous si on a tenu les promesses de nos ambitions naïves.
 
