@@ -27,7 +27,7 @@ Nous, c'est :
 
 ### Chloé Thorey
 
-![Dessin Chloé Thorey](images/dessin chloe.png)
+![Dessin Chloé Thorey](images/dessin chloe.png)width="200" height="200"
 
 
 Artiste touche-à-tout autodidacte, je me forme au conservatoire de Lille en chant et au conservatoire de Roubaix en théâtre. Mais j'apprends tout autant au contact des artistes pour qui je travaille à Lille (Cie Thec, Collectif Poupées de Chimère, Cie Lazlo...) puis en Anjou avec la Cie Map, Cie Omi Sissi, Collectif Citrons, Cie Oeil du Do, Cie du Cri…  
@@ -37,4 +37,4 @@ En 2019 je commence à mener mes propres projets théâtraux après s’être mi
 
 ### Maxime Arnault
 
-![Dessin Maxime Arnault](images/dessin maxime.png)
+![Dessin Maxime Arnault](images/dessin maxime.png)width="200" height="200"
