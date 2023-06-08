@@ -17,3 +17,15 @@ Et jouer quoi qu’il arrive.  
 Revenir à l’essence du théâtre, 
 Avec les moyens du bord. 
 Bricoler du vivant, en somme.
+
+
+>Faites des bêtises mais faites les avec enthousiasme
+
+C'est un peu autour de cet adage que nous bidouillons des trucs ensemble depuis 2016.
+
+Nous, c'est : 
+
+### Chloé Thorey
+
+Je suis comédienne, musicienne, et je fais de la vidéo.
+![dessin Chloé](images/Capture d’écran 2023-06-08 à 21.22.36.png)
