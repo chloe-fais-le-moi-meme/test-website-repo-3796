@@ -1,6 +1,12 @@
 ---
 title: Contact
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
+La Compagnie Fais-Le Moi-même est produite par Vintage Caravane.
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+Contact artistique : 
+ciefaislemoimeme@protonmail.com
+06 75 55 29 54 / 06 85 51 20 61
+
+Contact administratif : 
+vintagecaravane@gmail.com
+06 95 55 72 73
