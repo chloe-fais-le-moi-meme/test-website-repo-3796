@@ -35,6 +35,8 @@ Je dirige plusieurs chorales (La Chorale à La Con, Les Louise Sans michel ) et 
 En 2019 je commence à mener mes propres projets théâtraux après s’être mise au service d’autres compagnies et metteur-euse-s en scène pendant plus de 15 ans. Fin 2022, je reviens dans les Hauts de France pour y rassembler mes différents champs d’activités autour de la Cie Fais-Le Moi-Même et de son bureau de production Vintage Caravane.
 
 -------------------------------------------------------------------------------:
+
+
 ### Maxime Arnault
 
 <img src="images/dessin maxime.png" width="200">
