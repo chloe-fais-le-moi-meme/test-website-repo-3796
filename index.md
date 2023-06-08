@@ -8,4 +8,4 @@ On va vous parler de ce petit panthéon qu’on punaise sur les murs de nos cham
 
 Et tout ça se fait avec un rétro-projecteur d’antan, une guitare électrique, une paire de ciseaux ,un écran blanc et 2 ampoules. 
 
-[affiche Les Enfants de la Destinée](images/test affiche ledld.jpg)
+![affiche Les Enfants de la Destinée](images/test affiche ledld.jpg)
