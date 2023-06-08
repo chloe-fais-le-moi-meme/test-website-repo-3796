@@ -15,7 +15,7 @@ Et de la tendresse pour construire des images sereines, afin de recharger les ba
 
 Et jouer quoi qu’il arrive.  
 Revenir à l’essence du théâtre, 
-Avec les moyens du bord. 
+Avec les moyens du bord.   
 Bricoler du vivant, en somme.
 
 
