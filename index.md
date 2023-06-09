@@ -1,5 +1,5 @@
 ---
-title: B. Les Enfants de La Destinée
+title: Les Enfants de La Destinée
 ---
 # **Les Enfants de la Destinée**
 
